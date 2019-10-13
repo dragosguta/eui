@@ -1,6 +1,10 @@
 ## [`master`](https://github.com/elastic/eui/tree/master)
 
-No public interface changes since `14.4.1`.
+No public interface changes since `14.4.2`.
+
+## [`14.4.2`](https://github.com/elastic/eui/tree/v14.4.1)
+- Update button text to remove underline
+- Set theme colors
 
 ## [`14.4.1`](https://github.com/elastic/eui/tree/v14.4.1)
 
