@@ -23,7 +23,7 @@
 
 .euiButtonToggle {
   @include euiButtonToggleStates {
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   &.euiButtonToggle--isIconOnly {
