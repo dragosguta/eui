@@ -51,7 +51,7 @@ const humanReadableTypes = {
   execSync('git push upstream --tags', execOptions);
 
   // publish new version to npm
-  execSync('npm publish', execOptions);
+  execSync('npm publish --registry http://localhost:4873', execOptions);
 
   // update docs, git commit, git push
   execSync('npm run sync-docs', execOptions);
